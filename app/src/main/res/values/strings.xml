@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GifApp</string>
+    <string name="gif_api_key" translatable="false">NT131wogULHTb8MzkJuHZDqvLq51TMI7</string>
+    <string name="no_results">There is no results</string>
+</resources>
